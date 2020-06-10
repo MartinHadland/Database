@@ -1,0 +1,7 @@
+C:\Users\Martin\source\repos\UserEntry\bin\Debug\UserEntry.exe.config
+C:\Users\Martin\source\repos\UserEntry\bin\Debug\UserEntry.exe
+C:\Users\Martin\source\repos\UserEntry\bin\Debug\UserEntry.pdb
+C:\Users\Martin\source\repos\UserEntry\obj\Debug\UserEntry.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\UserEntry\obj\Debug\UserEntry.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\UserEntry\obj\Debug\UserEntry.exe
+C:\Users\Martin\source\repos\UserEntry\obj\Debug\UserEntry.pdb
